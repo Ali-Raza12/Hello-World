@@ -1,2 +1,2 @@
 # Hello-World
-Just checking how to use the git hub platormi
+Just checking how to use the git hub platform
